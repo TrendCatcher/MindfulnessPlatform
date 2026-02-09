@@ -19,7 +19,13 @@ Mindefulness AI Platform은 다면적 웰빙 생태계를 위한 spring Boot3 (J
 
 ## 4. Validation (Simulation)
 
-![User Registration Simulation](docs/simulation_retry_1770618593195.webp)
-*Simulation of User Registration Feature triggering Discord Notification (Mock)*
+## 4. Validation (Simulation)
 
+### 4.1 Member CRUD Flow
+![Member CRUD Simulation](docs/crud_simulation_final_1770619072278.webp)
+*Full CRUD Simulation: Registration -> List -> Update -> Delete*
+
+### 4.2 Discord Notification Alert
+![User Registration Notification](docs/simulation_retry_1770618593195.webp)
+*Discord Webhook notification triggered by AOP Aspect*
 
