@@ -22,7 +22,7 @@ Mindefulness AI Platform은 다면적 웰빙 생태계를 위한 spring Boot3 (J
 ## 4. Validation (Simulation)
 
 ### 4.1 Member CRUD Flow
-![Member CRUD Simulation](docs/crud_simulation_final_1770619072278.webp)
+![Member CRUD Simulation](docs/fixed_crud_sim.webp)
 *Full CRUD Simulation: Registration -> List -> Update -> Delete*
 
 ### 4.2 Discord Notification Alert
