@@ -11,3 +11,7 @@ spring:
             uri: http://localhost:8082
             predicates:
               - Path=/api/sessions/**
+
+discord:
+  webhook:
+    url: https://discord.com/api/webhooks/placeholder # 여기에 실제 Webhook URL을 입력해주세요!
