@@ -17,5 +17,9 @@ Mindefulness AI Platform은 다면적 웰빙 생태계를 위한 spring Boot3 (J
 - 탄력 인프라: 컨테이너호된 배보와 자동확장
 - 데이터 영속성: 트랜잭션 데이터는 postgresql, 저지연 세션 생태는.. 
 
+## 4. Validation (Simulation)
+
+![User Registration Simulation](docs/simulation_retry_1770618593195.webp)
+*Simulation of User Registration Feature triggering Discord Notification (Mock)*
 
 
